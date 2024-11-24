@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @olfa-489
-- 👀 I’m interested in web development and networks security 
+- 👀 I’m interested in web development , networks security ,DevOps and AI
 - 🌱 I’m currently learning flutter , cyber security, mern ,..ect
 - 💞️ I’m looking to collaborate on internships or part time jobs 
 - 📫 How to reach me : email : olfafaidi16@gmail.com
